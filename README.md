@@ -1,7 +1,7 @@
 # Upon After Before: Daily Prayers
 
 ### About
-Visit www.uponafterbefore.com for your daily prayers allotted by timeslot. <br>
+Visit www.uabapp.com for your daily prayers allotted by timeslot. <br>
 Save it on your homescreen, made an icon so it feels like an app :)
 
 Based on Tim Keller's Patterns for Daily Prayer.<br>
